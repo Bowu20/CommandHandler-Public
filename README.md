@@ -37,6 +37,7 @@ CH2 is the 2nd version of the CommandHandler [@Bowu20](https://github.com/Bowu20
   - prefix - Reference multi prefix handling
   - say - Says something as the bot
   - userinfo - Shows user information, nitro check not possible, [reference](https://github.com/discordjs/discord.js/issues/3047#issuecomment-459978357)
+  - serverinfo - Shows server info + owner id/mention. Bot must be in server.
 
 - Misc
   - Cooldown
